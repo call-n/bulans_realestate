@@ -3,3 +3,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## This is a Next and react based app as you saw in the title. 
 
 And its delpoyed on [Vercel](https://bulans-realestate-9ratvv80g-call-n.vercel.app/)
+
+- It doesnt work atm cuz i fked up with the api key:) 

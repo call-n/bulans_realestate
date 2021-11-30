@@ -32,6 +32,3 @@ yarn-error.log*
 
 # vercel
 .vercel
-
-# api headers
-utils/fetchApi.js
